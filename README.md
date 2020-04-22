@@ -2,7 +2,7 @@
 A terminal game using C++ for guessing randomy picked words from a dictionary file.
 
 To compile the code please run:
-`g++ main.cpp sources/Game.cpp -o executable/main`
+`g++ main.cpp sources/Game.cpp -o main`
 
 To play the game, launch the __*main.exe*__ and specify a dictionary file name  application.
 
