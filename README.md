@@ -4,9 +4,9 @@ A terminal game using C++ for guessing randomy picked words from a dictionary fi
 To compile the code, run:
 `g++ main.cpp sources/Game.cpp -o main`
 
-To play the game, launch the __*main.exe*__ and specify a dictionary file name  application.
+To play the game, launch the __*main.exe*__ application and specify a dictionary file name.
 
-Note that the dictionnary files must be included in the __*dictionnary*__ folder.
+Note that the dictionary files must be included in the __*dictionary*__ folder.
 
 Example using the __*english*__ dictionary file:
 ![GitHub Logo](./example.png)
