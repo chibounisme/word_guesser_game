@@ -9,4 +9,4 @@ To play the game, launch the __*main.exe*__ application and specify a dictionary
 Note that the dictionary files must be included in the __*dictionary*__ folder.
 
 Example using the __*english*__ dictionary file:
-![GitHub Logo](./example.png)
+![](./example.png)
